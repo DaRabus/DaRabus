@@ -10,16 +10,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=DaRabus&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/DaRabus">
-    <img height="170" src="https://github-readme-stats-darabus.vercel.app/api?username=DaRabus&theme=radical&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/DaRabus">
-    <img height="170" src="https://github-readme-stats-darabus.vercel.app/api/top-langs?username=DaRabus&theme=radical&layout=compact&langs_count=8&hide_border=true&border_radius=10&hide=html,css" alt="Top languages"/>
-  </a>
-</p>
-
 ---
 
 ## 🎯 Focus Areas
